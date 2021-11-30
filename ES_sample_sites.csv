@@ -1,0 +1,28 @@
+Station name,Code,Area,Lat,Lon,Salinity,full tidal Flow,Tidal flow
+Azevedo Pond,APC,Upper Slough,36.8439,-121.7513,30.3,No,0
+Azevedo Pond,APN,Upper Slough,36.8471,-121.7545,30.06,No,0
+Azevedo Pond,APS,Upper Slough,36.8423,-121.7469,21.53,No,0
+Bennett Slough,BSE,Lower Slough,36.8215,-121.7834,14.35,No,0
+,CAT,Freshwater Pond,36.8207,-121.7318,9.7,n/a,0
+Carneros Creek,CC,Upper Slough,36.8601,-121.7401,24.45,No,0
+Hudson's Landing,HLE,Upper Slough,36.8563,-121.7549,28.99,No,0
+Hudson's Landing,HLW,Upper Slough,36.8565,-121.755,27.88,Yes,1
+Jetty Rd,JR,Lower Slough,36.8171,-121.7871,29.9,No,0
+Kirby Park,KP,Upper Slough,36.8398,-121.7437,29.06,Yes,1
+Moro Cojo Slough,MCS,Lower Slough,36.7963,-121.7832,8.95,No,0
+Moro Cojo Slough,MCS2,Lower Slough,36.7777,-121.7379,2.58,No,0
+Monterey Dunes Way,MDW,Tembladero Slough,36.7719,-121.7897,3.28,No,0
+Moss Landing Rd,MLN,Lower Slough,36.8,-121.7844,30.47,Yes,1
+Moss Landing Rd,MLS,Lower Slough,36.7997,-121.7847,14.13,No,0
+Reserve North Marsh,NM,Reserve,36.83465,-121.73843,31.34,No,0
+Vierra Marsh,VM,Lower Slough,36.8112,-121.7792,31.32,Yes,1
+Portero Rd,PRN,Tembladero Slough,36.7908,-121.7904,8.58,Yes,1
+Portero Rd,PRS,Tembladero Slough,36.7904,-121.7907,4.65,No,0
+Reserve Bridge,RBR,Reserve,36.8199,-121.7371,31.06,Yes,1
+,ROK,Freshwater Pond,36.8239,-121.7343,6.93,n/a,0
+Whistletop Lagoon,RSM,Reserve,36.824,-121.74,30.79,Yes,1
+Skipper's Landing,SKL,Lower Slough,36.8106,-121.7864,31.51,Yes,1
+Salinas River Bridge,SRB,Salinas River,36.7321,-121.7807,1.05,No,0
+Strawberry Rd,STB,Reserve,36.8296,-121.734,29.13,No,0
+Tembladero Slough,TS,Tembladero Slough,36.7651,-121.7596,1.17,No,0
+Tembladero Slough,TS2,Tembladero Slough,36.772296,-121.787341,3.15,No,0
